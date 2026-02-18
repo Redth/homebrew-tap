@@ -1,8 +1,8 @@
 cask "maui-sherpa" do
-  version "0.2.6"
-  sha256 "cd93ac487506f4d687b1a72f1ffc3e18297bdb30b1d1035cc302daac18d39d74"
+  version "0.3.0"
+  sha256 "b887e83f158272af5a1c7e9ded252883b756dbdc8650df7af88d5a0724eefa03"
 
-  url "https://github.com/Redth/MAUI.Sherpa/releases/download/v#{version}/MAUI-Sherpa.zip"
+  url "https://github.com/Redth/MAUI.Sherpa/releases/download/v#{version}/MAUI-Sherpa.mac.zip"
   name "MAUI Sherpa"
   desc "Desktop app for managing .NET MAUI developer tools"
   homepage "https://github.com/Redth/MAUI.Sherpa"
