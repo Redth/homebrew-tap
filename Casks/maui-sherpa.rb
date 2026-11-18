@@ -1,6 +1,6 @@
 cask "maui-sherpa" do
-  version "0.17.0"
-  sha256 "43db0e03bba36d1222b50ae89b6d2362e03cd10e4c87692f8f09461e41d26c98"
+  version "0.18.0"
+  sha256 "19495a061f59869471bd077c8c883e17c2be2331d6d7107ea15c89df5cfea331"
 
   url "https://github.com/Redth/MAUI.Sherpa/releases/download/v#{version}/MAUI-Sherpa.macos.zip"
   name "MAUI Sherpa"
